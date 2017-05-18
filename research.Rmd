@@ -2,4 +2,6 @@
 title: "Research"
 ---
 
-## Marginalized Models for Longitudinal Binary Data 
+### Marginalized Models for Longitudinal Binary Data 
+
+### Maximum Entropy Sampling
