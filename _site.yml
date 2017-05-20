@@ -13,4 +13,4 @@ navbar:
       href: cv.html
 output:
   html_document:
-    css: css/style.css
+    css: style.css
