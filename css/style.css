@@ -1,0 +1,76 @@
+table {
+    border-collapse: collapse !important;
+}
+
+td, th {
+   border:none !important;
+   vertical-align: top;
+}
+
+body 
+{
+ margin-top:10px;
+ margin-left:10px;
+ margin-right:10px;
+}
+
+blockquote {
+    border-left:none;
+    font-size: 1em;
+    display: block;
+    margin-top: .25em;
+    margin-left: 20px;
+}
+
+.column {
+    float: left;
+    padding: 15px;
+}
+
+.prettycol::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.sidebar {
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+}
+
+@media only screen and (min-width: 700px) {
+
+body 
+{
+ margin-top:10px;
+ margin-left:100px;
+ margin-right:100px;
+}
+
+td:first-child {
+  white-space: nowrap;
+}
+.column {
+    float: left;
+    padding: 15px;
+}
+
+.prettycol::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.sidebar {
+    width: 25%;
+}
+
+.content {
+    width: 75%;
+}
+}
+
+
