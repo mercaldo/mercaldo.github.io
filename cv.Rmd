@@ -1,3 +1,38 @@
----
-title: "CV"
----
+# Nate Mercaldo
+
+<div class="prettycol">
+  <div class="column sidebar">
+  
+  **contact**  
+  This is where you can find me
+  
+  **email**  
+  me@email.com
+  
+  **github**  
+  [mercaldo](https://github.com/mercaldo)
+  
+  **languages**  
+  R, etc.
+  
+</div>
+
+### Interests
+
+To edit, you can add new titles by putting the `##` before them, you can make text bold by surrounding with `**`, you can make links by doing [Link Name](http://example.com). Just make sure to save the `style.css` file in the same folder as this markdown file & you should be good to go. HAPPY CVing!
+
+### Education
+
+**PhD** Vanderbilt University
+
+**MS** University of Washington
+
+### Research
+
+I do lots of smart research for lots of smart people!
+
+### Peer-reviewed Publications
+
+I HAVE ALL THE PAPERS
+
+</div>
